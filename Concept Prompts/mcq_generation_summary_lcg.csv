@@ -1,0 +1,925 @@
+Round,Method,Repeat Status,MCQs,Used Facts
+1,LCG,Unique,"1. A 65-year-old male patient presents with intermittent abdominal pain over the past several months, substantial weight loss, and blood in his stool. His father died of colon cancer. A colonoscopy reveals a mass, and a biopsy confirms colon carcinoma. What is the most likely site of metastasis for this carcinoma?
+   A. Brain
+   B. Kidneys
+   C. Lung
+   D. Lymph nodes & liver
+   E. Pancreas
+   Answer: D. Lymph nodes & liver
+   Explanation: The most common site for metastasis of colon carcinoma is to the regional lymph nodes and the liver.
+
+2. A 17-year-old teenager presents with bloody diarrhea and weight loss over the past few weeks. The patient has a history of abdominal cramping and urgency to defecate. A colonoscopy shows inflammation and ulcers. If the patient has ulcerative colitis, which part of his colon is most likely to be affected?
+   A. Ascending colon
+   B. Entire colon
+   C. Rectosigmoid
+   D. Rectum only
+   E. Transverse colon
+   Answer: C. Rectosigmoid
+   Explanation: Ulcerative colitis affects the rectosigmoid region in approximately 50% of cases.
+
+3. A 35-year-old obese woman presents with left-sided abdominal pain and fever. She recently had a colonoscopy where she was diagnosed with Diverticulosis. A CT scan shows abscess formation. What is the most suitable treatment for her?
+   A. Chemotherapy
+   B. Diet modification only
+   C. Medical treatment
+   D. Surgical resection
+   E. Radiation therapy
+   Answer: C. Medical treatment
+   Explanation: Most patients with diverticulitis are treated medically. Surgery is considered for recurrent or complicated disease.
+
+4. A 28-year-old male presents with intense anal pain and bright red blood on the toilet paper after bowel movements. On examination, you notice a swelling below the dentate line covered by a sensitive anoderm. What is the most likely diagnosis?
+   A. Anal fissure
+   B. Anal fistula
+   C. External hemorrhoids
+   D. Internal hemorrhoids
+   E. Rectal prolapse
+   Answer: C. External hemorrhoids
+   Explanation: External hemorrhoids are located below the dentate line and are covered by a highly sensitive anoderm.
+
+5. A 2-day-old female newborn is unable to pass meconium. She also vomits a green fluid. Radiography shows double bubble sign due to a gap in the bowel with fibrous cord connection. What is the likely diagnosis?
+   A. Congenital aganglionic megacolon (Hirschsprung's disease)
+   B. Intussusception
+   C. Meckel's diverticulum
+   D. Necrotizing enterocolitis
+   E. Type 2 Congenital Duodenal Atresia
+   Answer: E. Type 2 Congenital Duodenal Atresia
+   Explanation: The double bubble sign indicates congenital duodenal atresia. Type 2 is characterized by a fibrous cord connecting the proximal and distal segments.
+
+6. An elderly patient presents with abdominal pain, distention, vomiting, and constipation. An abdominal X-ray reveals a 'bird beak sign'. What is the most likely pathology?
+   A. Bowel obstruction
+   B. Diverticulitis
+   C. Intestinal ischemia
+   D. Irritable bowel syndrome
+   E. Volvulus
+   Answer: E. Volvulus
+   Explanation: The 'bird beak sign' is often seen on imaging in cases of volvulus, where the intestine twists upon itself.
+
+7. A 45-year-old male with history of Crohn's disease and previous small bowel resection presents with fatigue and balance problems. Investigations reveal that he has vitamin A and K deficiencies. What characteristic of these vitamins would best explain his deficiency?
+   A. They are lipophobic vitamins
+   B. They are lipophilic vitamins
+   C. They are produced by gut bacteria
+   D. They are synthesized in skin
+   E. They require intrinsic factor for absorption
+   Answer: B. They are lipophilic vitamins
+   Explanation: Vitamins A, D, E, and K are lipophilic, meaning they need fat to be absorbed. With small bowel resection reducing fat absorption, deficiencies can occur in these vitamins.","[7, 76, 25, 74, 79, 60, 93]"
+2,LCG,Unique,"1. A 45-year-old male patient presents to your clinic with a sudden onset of rectal bleeding. He states that the bleeding is not accompanied by pain, but recently he has experienced some discomfort and observed a prolapse while straining during bowel movements. If these symptoms are indicative of a specific condition, which treatment may be effective?
+   a. Antibiotics
+   b. Beta-blockers
+   c. Bulking agents
+   d. Laxatives
+   e. Sutures
+   Correct answer: c. Bulking agents. The patient's symptoms suggest internal hemorrhoids, which can be treated conservatively with stool softeners, bulking agents, sitz baths, and topical anesthetics.
+
+2. A 39-year-old woman with a known history of diverticulosis presents to your office complaining about discomfort in her lower left side. She mentions no other symptoms. What is the most common etiology for her condition to complicate?
+   a. Appendicitis
+   b. Cancer
+   c. Gallstones
+   d. Prolapsed hemorrhoids
+   e. Volvulus
+   Correct answer: b. Cancer. Up to 60% of large bowel obstructions (LBO) are caused by cancer.
+
+3. A 3-year-old boy is brought to the emergency department with a dramatic episode of colicky abdominal pain and passing bloody stools. The doctor is considering intussusception. What would be a pathophysiological cause for this symptom?
+   a. Appendicitis
+   b. Colonic outpouchings
+   c. Gastric hyperacidity
+   d. Hirschsprung disease
+   e. Telescoping of one portion of the intestine into another
+   Correct answer: e. Telescoping of one portion of the intestine into another. This describes the pathology of intussusception.
+
+4. A 24-year-old man presents to the emergency department with acute, severe left lower quadrant pain. A CT scan reveals multiple colonic outpouchings without inflamed diverticula. What is this condition called?
+   a. Acute appendicitis
+   b. Colitis
+   c. Diverticulitis
+   d. Diverticulosis
+   e. Irritable bowel syndrome
+   Correct answer: d. Diverticulosis. Diverticulosis refers to the presence of diverticula (outpouchings) without inflammation.
+
+5. A 35-year-old woman visits your office complaining of recurrent abdominal pain that seems to wax and wane over the past few months. She also mentions changes in bowel movements, bloating, and mucus in her stool. However, she denies experiencing nocturnal pain. What condition might she be suffering from?
+   a. Crohn's disease
+   b. Irritable bowel syndrome
+   c. Peptic ulcer disease
+   d. Ulcerative colitis
+   e. Volvulus
+   Correct answer: b. Irritable bowel syndrome. The symptoms described are characteristic of IBS, especially the waxing and waning of the abdominal pain.
+
+6. A newborn baby was born with a 2-inch long outpouching about 2 feet from the ileocecal valve. Given the characteristics, which is the most probable diagnosis?
+   a. Appendicitis
+   b. Hirschsprung's Disease
+   c. Irritable bowel syndrome
+   d. Meckel's Diverticulum
+   e. Necrotizing enterocolitis
+   Correct answer: d. Meckel's Diverticulum. The description fits with the rule of 2's for Meckel's diverticulum which states that Meckel's diverticulum affects 2% of the population, located 2 feet from the ileocecal valve, and 2 inches long.
+
+7. A 78-year-old female patient presents to your clinic complaining of increasing constipation and intermittent abdominal pain. Given her age and history of diverticular disease, what could be the most likely cause of her symptoms?
+   a. Appendicitis
+   b. Colonic cancer
+   c. Diverticulosis
+   d. Intussusception
+   e. Volvulus
+   Correct answer: b. Colonic cancer. In the elderly, a significant cause of constipation and abdominal pain, especially with a history of diverticular disease, can be colonic cancer causing large bowel obstruction. 60% of LBOs are due to cancer.","[94, 11, 68, 45, 98, 83, 72]"
+3,LCG,Unique,"1. A 55-year-old male presents with repeated bouts of diarrhea and intermittent rectal bleeding for the last few months. He also complains of abdominal cramping when the frequency of bowel movements increases. Physical examination reveals pallor and digit clubbing. Laboratory tests show decreased albumin and iron levels. Which of the following is the most likely diagnosis?
+   
+   A) Gastroenteritis
+
+   B) Crohn’s disease
+
+   C) Irritable bowel syndrome
+
+   D) Peptic ulcer disease
+
+   E) Ulcerative colitis
+
+Correct Answer: E) Ulcerative colitis. 
+Explanation: The patient's symptoms and laboratory abnormalities are consistent with Ulcerative colitis, an inflammatory bowel disease characterized by rectal bleeding, diarrhea, abdominal cramping, and mucopus. 
+
+2. In performing a sigmoidoscopy on a 64-year-old female patient complaining of irregular bowel movements and severe abdominal pain, the doctor discovers a twisting of the sigmoid colon. What diagnostic procedure would have most likely confirmed this condition prior to the endoscopy?
+
+   A) CT scan
+
+   B) Barium enema
+
+   C) MRI 
+
+   D) Ultrasound
+
+   E) X-ray
+
+Correct Answer: B) Barium enema. 
+Explanation: A volvulus, or twisting of the intestine, can be diagnosed by a barium enema, which shows the twisted anatomy of the colon.
+
+3. A 35-year-old woman complains of chronic diarrhea and abdominal pain that seems to improve after going to the bathroom. The doctor rules out any organic illnesses like inflammatory bowel disease and celiac disease but recommends she try a specific diet to manage her symptoms. What diet might the doctor have recommended?
+
+   A) Gluten-free diet
+
+   B) High-protein diet
+
+   C) Low-FODMAP diet
+
+   D) Vegetarian diet
+
+   E) Keto diet
+
+Correct Answer: C) Low-FODMAP diet. 
+Explanation: The symptoms described by the patient are suggestive of Irritable bowel syndrome. A low-FODMAP diet can help manage IBS symptoms. 
+
+4. A 40-year-old male patient presents with gait disturbances, decreased reflexes, and loss of proprioceptive and vibratory sensation. The patient’s medical history reveals he has a long-term diet lacking in nuts, seeds, and vegetable oils. Based on these findings, which of the following vitamin deficiencies is the patient likely suffering from?
+
+   A) Vitamin B12 deficiency
+
+   B) Vitamin A deficiency
+
+   C) Vitamin D deficiency
+
+   D) Vitamin E deficiency
+
+   E) Vitamin K deficiency
+
+Correct Answer: D) Vitamin E deficiency. 
+Explanation: Vitamin E deficiency results from malabsorption or poor dietary intake. It may cause neurological problems due to poor nerve conduction, such as ataxia and loss of proprioceptive & vibratory sensation.
+
+5. A 27-year-old female patient presents with episodic diarrhea and abdominal pain over the past year. Stool cultures are negative and colonoscopy shows no significant abnormalities. The patient mentions that the symptoms worsen with stress. The doctor suspects a functional gastrointestinal disorder resulting from the dysregulation of which of the following systems?
+
+   A) Central nervous system (CNS)
+
+   B) Autonomic nervous system (ANS) & enteric nervous system (ENS)
+
+   C) Gastrointestinal immune system
+
+   D) Endocrine system
+
+   E) Lymphatic system
+
+Correct Answer: B) Autonomic nervous system (ANS) & enteric nervous system (ENS).
+Explanation: The pathology of IBS is not completely understood, but it's believed to be a result of dysregulation of ANS & ENS, and changes in the gut microbiome.
+
+6. A 58-year-old male, with a history of ulcerative colitis, complains of continued rectal bleeding despite therapy. Colonic biopsy shows a transition from columnar epithelium to anoderm. What anatomical landmark does this transition signify?
+
+   A) Pectinate line
+
+   B) Dentate line
+
+   C) Ampulla of Vater 
+
+   D) Ileocecal valve 
+
+   E) Sphincter of Oddi 
+
+Correct Answer: B) Dentate line. 
+Explanation: The Dentate line is the junction between columnar epithelium & the anoderm. It is significant in colorectal pathology.
+
+7. A 62-year-old woman with a history of ulcerative colitis presents with fatigue, shortness of breath, and pallor. Laboratory tests show decreased hemoglobin and hematocrit levels, along with an elevated erythrocyte sedimentation rate. Based on the patient's history and her laboratory results, what is the most likely type of anemia she is suffering from?
+
+   A) Hemolytic anemia
+
+   B) Pernicious anemia
+
+   C) Sickle cell anemia
+
+   D) Iron deficiency anemia
+
+   E) Megaloblastic anemia
+
+Correct Answer: D) Iron deficiency anemia.
+Explanation: Iron deficiency anemia is common in patients with ulcerative colitis because of chronic rectal bleeding.","[29, 86, 47, 28, 81, 42, 63]"
+4,LCG,Unique,"Question 1: 
+A 4-week-old female infant presents with recurrent bilious vomiting. Her parents also says that she has also been feeding poorly and is not gaining weight as expected. Initial investigation reveals duodenal dilation on the upper side and constriction on the lower side. Which condition might be causing this infant's symptoms?
+A. Celiac disease
+B. Crohn's disease
+C. Congenital duodenal atresia
+D. Intussusception
+E. Microvillus inclusion disease
+
+Correct Answer: C. Congenital duodenal atresia
+Explanation: The  vomiting and poor growth reported, in conjunction with abnormal findings on imaging, are indicative of congenital duodenal atresia.
+
+Question 2:
+A 27-year-old woman presents complaining of chronic diarrhea, which she describes as pale and voluminous. She also reports an unintended loss of weight. She has no report of flatulence. What condition might be considered as an explanation for these symptoms?
+A. Fat malabsorption
+B. Lactose intolerance
+C. Microvillus inclusion disease
+D. Pancreatic insufficiency
+E. Ulcerative colitis
+
+Correct Answer: A. Fat malabsorption
+Explanation: Her symptoms including pale, voluminous stool, weight loss, along with absence of flatulence are indicators of fat malabsorption. 
+
+Question 3:
+An imaging study on a 2-week-old male reveals a mal-rotated intestine and absence of mesenteric arteries. Furthermore, part of the small intestine, specifically the jejunum, appears to have an 'apple peel' appearance. This finding is highly suggestive of which condition?
+A. Congenital megacolon
+B. Hirschsprung disease
+C. Meckel's diverticulum
+D. Type 3 congenital duodenal atresia
+E. Intussusception 
+
+Correct Answer: D. Type 3 congenital duodenal atresia
+Explanation: The presence of a mal-rotated intestine, various imaging abnormalities, and the hallmark 'apple peel' appearance, suggests a diagnosis of Type 3 congenital duodenal atresia.
+
+Question 4:
+A 35-year-old woman presents with a skin rash that she describes as a 'burning eruption'. Laboratory results show positive tTG, endomysial antibody, and deamidated gliadin. What might be the most probable diagnosis?
+A. Dermatitis herpetiformis from celiac disease
+B. Hashimoto's thyroiditis
+C. Lupus erythematosus
+D. Rheumatoid arthritis
+E. Vitiligo 
+
+Correct Answer: A. Dermatitis herpetiformis from celiac disease
+Explanation: Confirmed by the skin rash, presence of specific antibodies and the patient's symptomatic history, the diagnosis can be confidently determined as celiac disease presenting as dermatitis herpetiformis.
+
+Question 5:
+A 47-year-old man presents with unexplained weight loss, vomiting, and blood in stools. He denies any recent travel or change in diet. He tested positive for fecal immunochemical test (FIT). Which condition could be suspected?
+A. Colon cancer
+B. Hemorrhoids 
+C. Irritable bowel syndrome
+D. Peptic ulcer disease
+E. Stomach flu 
+
+Correct Answer: A. Colon cancer
+Explanation: The aggregate of symptoms - hematochezia, weight loss, vomiting, positive FIT, and age > 45 – should raise suspicion for a serious condition like colon cancer. 
+
+Question 6:
+A 22-year-old woman presents with severe leg swelling and noticeable muscle wasting. She also mentions that she has not had her period for the last six months. Her diet mainly includes carbs and very little protein. The most likely diagnosis for her condition is which of the following?
+A. Congestive heart failure
+B. Hypothyroidism
+C. Kidney disease
+D. Malnutrition/protein malabsorption
+E. Polycystic ovary syndrome 
+
+Correct Answer: D. Malnutrition/protein malabsorption
+Explanation: Edema, muscle atrophy, and amenorrhea are all symptoms of protein malabsorption or severe malnutrition.
+
+Question 7:
+A couple, who are carriers for a defective gene linked to a gastrointestinal disorder, have a 25% chance of having a child affected with this condition. What is the most likely mode of inheritance for this disorder?
+A. Autosomal dominant
+B. Autosomal recessive
+C. X-linked dominant
+D. X-linked recessive
+E. Y-linked 
+
+Correct Answer: B. Autosomal recessive
+Explanation: If both parents are carriers, then the disorder follows an autosomal recessive inheritance pattern, such as in the case of Congenital Duodenal Atresia & Stenosis.","[5, 54, 8, 57, 46, 55, 1]"
+5,LCG,Unique,"1. A 42-year-old woman presents to the clinic with abdominal cramping, tenderness and a mass on physical examination. She reports an episodic diarrhea that has been worsening since the last 3 months. An endoscopy shows irritated bowel tissue. What would be the most likely diagnosis?
+    A. Crohn's Disease
+    B. Diverticulitis
+    C. Gastric ulcers
+    D. Appendicitis
+    E. Irritable bowel syndrome
+    Answer: A. Crohn's Disease
+    Explanation: The clinical manifestations such as abdominal cramping, tenderness, diarrhea, and a mass suggest Crohn's Disease. 
+
+2. A 74-year-old man presents with a sudden onset of abdominal pain, vomiting and bloody diarrhea. On examination, the abdomen is tender. An ultrasound reveals intussusception. What would be the most likely course of treatment?
+    A. Antibiotics
+    B. Fluid replacement
+    C. Radiology-guided reduction
+    D. Surgery
+    E. Observation
+    Answer: D. Surgery
+    Explanation: A high incidence of malignancy has been associated with intussusception in adults, and therefore surgical intervention is often required.
+
+3. A 58-year-old woman presents with rectal discomfort and occasional light streaks of blood in her stool. Physical examination reveals excess tissue around the anus. Which vascular structure is involved in her condition?
+    A. Abdominal aorta
+    B. Hemorrhoidal plexus
+    C. Iliac artery
+    D. Saphenous vein
+    E. Subclavian artery
+    Answer: B. Hemorrhoidal plexus
+    Explanation: Hemorrhoids are caused by distention and enlargement of the hemorrhoidal plexus, which connects the caval and portal system. 
+
+4. A 36-year-old woman brings in her 5-day-old newborn to the emergency department with the baby appearing to have intense abdominal discomfort and not having passed stool since birth. The neonate's belly appears swollen and tender. Which condition best describes the neonate's pathology at this stage?
+    A. Hirschsprung disease
+    B. Meconium Ileus
+    C. Necrotizing enterocolitis
+    D. Pyloric stenosis
+    E. Volvulus
+    Answer: B. Meconium Ileus
+    Explanation: The inability of a neonate to pass stool, presenting with a distended abdomen, suggests the diagnosis of meconium ileus where proximal bowel is ischemic & dilated due to obstruction & impaired motility. 
+
+5. A 50-year-old man has a history of chronic diarrhea and abdominal pain. Sigmoidoscopy reveals loss of haustrations and a thickening of the muscularis propria. What is the most likely chronic change in this patient's disease?
+    A. Amyloidosis
+    B. Adenocarcinoma
+    C. Ischemic colitis
+    D. Pseudomembranous colitis
+    E. Ulcerative colitis
+    Answer: E. Ulcerative colitis
+    Explanation: Chronic changes in ulcerative colitis include loss of haustrations, thickening of smooth muscle, and dysplasia.
+
+6. A 28-year-old woman experiences ongoing diarrhea, fatigue, and unexpected weight loss. Surgical investigation indicates leukocyte trafficking to the colon. Biopsies via endoscopy suggest that she is experiencing an abnormal cytokine secretion and increased intestinal permeability. What is the root pathology of this patient's condition?
+    A. Inflammatory Bowel Disease
+    B. Irritable Bowel Syndrome
+    C. Crohn's Disease
+    D. Colon Cancer
+    E. Peptic ulcer disease
+    Answer: A. Inflammatory Bowel Disease
+    Explanation: The elements in this patient's condition suggest Inflammatory Bowel Disease. IBD pathogenesis includes failure to downregulate T cell activation and cytokine secretion alongside an increase of intestinal permeability.
+
+7. A 5-year-old boy is brought in by his parents due to not gaining weight despite eating well. Blood work shows decreased levels of vitamins A, D, E, and K. Which of the following best describes this child's likely diagnosis?
+    A. Celiac disease
+    B. Lactose intolerance
+    C. Primary (congenital) malabsorption
+    D. Cystic fibrosis
+    E. Irritable bowel syndrome
+    Answer: C. Primary (congenital) malabsorption
+    Explanation: The symptoms of this patient suggest a problem with the absorption of nutrients from food, indicating a primary or congenital malabsorption.","[35, 84, 90, 15, 30, 23, 52]"
+6,LCG,Unique,"Question 1:
+A 78-year-old male presents with symptoms of iron-deficiency anemia. His lower GI endoscopy reveals a mass lesion in the distal part of the transverse colon. Biopsy suggests a colonic carcinoma. What is considered as a potential curative option for this patient?
+A. Chemotherapy 
+B. Immunotherapy 
+C. Palliative care 
+D. Radiation 
+E. Surgical resection
+Correct Answer: E. Surgical resection.
+Explanation: Surgical resection is the treatment of choice for colon carcinoma. This procedure removes the tumor and a healthy margin of tissue around it, which can potentially cure this disease.
+
+Question 2:
+A 2-year-old child with a history of difficulty feeding and recurrent vomiting presents to the clinic. A barium meal X-ray reveals a double bubble sign suggestive of duodenal atresia. What underlies the pathogenesis of this condition?
+A. Congenital pyloric stenosis
+B. Failure of canalization of the embryonic duodenum 
+C. Gastroesophageal reflux disease
+D. Hirschsprung’s disease
+E. Midgut volvulus
+Correct Answer: B. Failure of canalization of the embryonic duodenum
+Explanation: Duodenal atresia is characterized by the failure of canalization of the embryonic duodenum leading to complete obstruction of the duodenal lumen.
+
+Question 3:
+An 8-month-old boy presents to the emergency department with severe bloody diarrhea. Stool culture reveals the presence of E. coli O157:H7. What might have mediated the severe symptom in this patient?
+A. Antibiotic-associated diarrhea 
+B. Colonic ischemia
+C. Nonsteroidal anti-inflammatory drug use
+D. Shiga toxin
+E. Sigmod volvulus
+Correct Answer: D. Shiga toxin
+Explanation: This strain of E. coli produces Shiga toxin, which can cause a severe disease state known as hemolytic uremic syndrome characterized by thrombotic microangiopathy.
+
+Question 4:
+A 10-day-old neonate, born at term, presents with failure to pass stool since birth. An abdominal X-ray shows dilated loops of bowel. Diagnosis is confirmed as meconium ileus. What is the leading cause of this condition?
+A. Bilateral renal agenesis
+B. Bowel perforation
+C. Down's syndrome
+D. Hirschsprung’s disease
+E. Thick & sticky meconium
+Correct Answer: E. Thick & sticky meconium
+Explanation: Meconium ileus, a condition presenting as neonatal intestinal obstruction, is commonly caused by thick and sticky meconium.
+
+Question 5:
+A 25-year-old female presents with abdominal pain, diarrhea, and weight loss. Upon colonoscopy, she was diagnosed with Crohn’s disease. Which of the following characterizes the disease?
+A. Constant colonic involvement
+B. Full-thickness inflammation
+C. Mucosal layer inflammation
+D. Pseudopolyps formation
+E. Ulcerative proctitis
+Correct Answer: B. Full-thickness inflammation.
+Explanation: Crohn's disease typically results in patchy full-thickness inflammation, as opposed to ulcerative colitis where predominantly mucosal layer is affected.
+
+Question 6:
+A 6-year-old boy presents with recurrent abdominal pain and occasional painless rectal bleeding. He is found to have Meckel’s diverticulum confirmed on Meckel scan. What is the histologic peculiarity of this diverticulum?
+A. Aganglionic mucosa
+B. Contains heterotopic mucosa
+C. Hyperplastic polypoid formation
+D. Mucosal inflammation with crypt abscesses
+E. Tubulo-villous adenoma
+Correct Answer: B. Contains heterotopic mucosa
+Explanation: Meckel's diverticulum is a true diverticulum and can contain heterotopic (foreign) mucosa, often gastric or pancreatic in nature.
+
+Question 7:
+A young woman presents with recurrent episodes of abdominal pain and occasional bloody diarrhea. Investigations reveal a typical feature of Meckel's diverticulum. What is the likely pathology behind the formation of this diverticulum?
+A. Colonic diverticulosis
+B. Familial adenomatous polyposis
+C. Failure of involution of the omphalomesenteric (vitelline) duct.
+D. Gastric antral vascular ectasia
+E. Peutz-Jeghers syndrome
+Correct Answer: C. Failure of involution of the omphalomesenteric (vitelline) duct
+Explanation: Meckel's diverticulum results from the failure of involution of the omphalomesenteric (vitelline) duct during the fifth week of gestational period.","[77, 10, 3, 20, 13, 31, 9]"
+7,LCG,Unique,"1. A 50-year-old man presents to the clinic with intermittent left lower quadrant abdominal pain for the past few months. He also reports a change in bowel habit towards looser stools. A subsequent colonoscopy reveals an inflammation of diverticula. This condition is known as?
+    a) Colon cancer
+    b) Crohn's disease
+    c) Diverticulitis
+    d) Irritable bowel syndrome
+    e) Ulcerative colitis
+   Answer: c) Diverticulitis. This condition is characterized by inflammation of the diverticula, which are small, bulging pouches that can form in the digestive system.
+
+2. A 35-year-old woman with a history of frequent bloody diarrhea and abdominal pain is diagnosed with a type of inflammatory bowel disease. The inflammation is continuous, involves only the colon, and the extent is variable. Which condition does she likely have?
+    a) Coeliac disease
+    b) Crohn's disease
+    c) Diverticulitis
+    d) Irritable bowel syndrome
+    e) Ulcerative colitis
+   Answer: e) Ulcerative Colitis. UC is an inflammatory bowel disease that causes long-lasting inflammation and ulcers in the digestive tract, affecting only the colon with variable extent.
+
+3. A newborn boy presents with bilious vomiting after feedings. On examination, there is a ""double-bubble"" sign on abdominal X-ray. This finding points towards a congenital anomaly characterized by:
+    a) Diverticulitis 
+    b) Hirschsprung's disease 
+    c) Septum within the bowel
+    d) Ulcerative colitis 
+    e) Volvulus. 
+   Answer: c) Septum within the bowel. The ""double-bubble"" sign on abdominal X-ray is often seen in type 1 congenital duodenal atresia, characterized by a septum within the bowel.
+
+4. On a recent trip to India, a 27-year-old man develops severe diarrhea. He is otherwise healthy and consumes a heavily plant-based diet. He asks if there are specific parts of the small intestine where iron from his plant-based diet would be most absorbed. You would tell him that maximal absorption occurs at:
+    a) Duodenum
+    b) Ileum
+    c) Jejunum
+    d) Stomach
+    e) Terminal ileum
+   Answer: a) Duodenum. Iron is most efficiently absorbed in the duodenum, the first section of the small intestine.
+
+5. In a routine proctologic examination, longitudinal folds proximal to the dentate line are found. These folds are known as:
+
+    a) Columns of Morgagni
+    b) Haemorrhoid plexuses
+    c) Haustra of colon
+    d) Rugae of stomach
+    e) Valves of Houston
+   Answer: a) Columns of Morgagni. These are longitudinal folds within the anal canal, and are a normal anatomical feature.
+
+6. A patient presents with constipation. After being told that the first part of the defecation process is the distension of the upper rectum, which subsequently triggers an autonomic reflex, he asks what the next steps are. You would tell him:
+
+    a) An autonomic sensory nerve sends signal to spinal cord, proximal colon contracts, internal anal sphincter relaxes
+    b) Lower rectum contracts, internal anal sphincter relaxes
+    c) An autonomic sensory nerve sends signal to brain, proximal colon contracts, internal anal sphincter relaxes
+    d) An autonomic sensory nerve sends signal to spinal cord, distal colon contracts, internal anal sphincter relaxes
+    e) Lower rectum contracts, external anal sphincter relaxes
+   Answer: a) An autonomic sensory nerve sends signal to spinal cord, proximal colon contracts, internal anal sphincter relaxes.
+
+7. A 30-year-old woman with a recurring history of abdominal pain and diarrhea undergoes colonoscopy. The endoscopy reveals ulcerations and a 'cobblestone' mucosa. These features are characteristic of: 
+
+    a) Celiac disease
+    b) Crohn's disease
+    c) Diverticulitis
+    d) Hemorrhoids
+    e) Ulcerative colitis
+   Answer: b) Crohn's disease. The 'cobblestone' appearance of the mucosa is often seen in Crohn's disease, a type of inflammatory bowel disease.","[58, 73, 6, 87, 24, 91, 33]"
+8,LCG,Unique,"1. A 36-year-old woman presents to the emergency department complaining of recent changes in her bowel habits and chronic abdominal pain. She is worried because she has noticed an increased urgency for bowel movements, especially after meals. She denies experiencing any weight loss, nausea, or vomiting. The patient has a family history of gastrointestinal disorders, but she has never been diagnosed. Based on her symptoms, which condition is she most likely suffering from?
+    A. Adhesions 
+    B. Cecal volvulus 
+    C. Internal hemorrhoids 
+    D. Irritable bowel syndrome 
+    E. Sigmoid volvulus
+    Correct Answer: D. Irritable bowel syndrome.
+    Explanation: The patient's chronic abdominal pain and changes in bowel habits are typical symptoms of irritable bowel syndrome (IBS), a common disorder that affects the large intestine.
+
+2. A 67-year-old man presents with severe abdominal pain. He has a history of multiple abdominal surgeries. Which cause is the most likely etiology of small bowel obstruction in this patient?
+    A. Adhesions 
+    B. Hernia 
+    C. Neoplasm 
+    D. Pediatric meconium ileus 
+    E. Sigmoid volvulus
+    Correct Answer: A. Adhesions
+    Explanation: The most common cause of small bowel obstruction (SBO) is adhesions, particularly in patients with a history of multiple abdominal surgeries. 
+
+3. A 41-year-old woman presents to the clinic complaining of bright red blood with bowel movements and a feeling of a lump in the anus. She has no abdominal pain, weight loss, or changes in bowel habits. On physical examination, she has painless, soft, purplish swellings protruding from the rectum. What is the most likely diagnosis?
+    A. Anal crypts 
+    B. Internal hemorrhoids 
+    C. Irritable bowel syndrome 
+    D. Small bowel obstruction 
+    E. Sigmoid volvulus
+    Correct Answer: B. Internal hemorrhoids.
+    Explanation: Internal hemorrhoids are located above the dentate line and are typically painless. They can cause bright red rectal bleeding and a feeling of rectal fullness.
+
+4. A 71-year-old man presents with severe abdominal pain, vomiting, and inability to pass gas or have a bowel movement. He has a history of multiple abdominal surgeries. When considering the most probable cause for his condition, which is commonly associated with ischemia or infarction?
+    A. Irritable bowel syndrome 
+    B. Meconium ileus 
+    C. Sigmoid volvulus 
+    D. Small bowel obstruction 
+    E. Cecal volvulus
+    Correct Answer: D. Small bowel obstruction.
+    Explanation: Small bowel obstruction (SBO) can lead to ischemia and infarction due to the obstructed flow of intestinal contents.
+
+5. A 17-year-old presents with a history of cystic fibrosis. The patient is experiencing bowel obstruction with feculent vomiting. Laboratory data shows increased levels of chloride in sweat and sputum. Histology of the obstructive material is likely to reveal?
+    A. Internal hemorrhoids 
+    B. Normal villi, abnormal brush border mucosal enzymes 
+    C. Sigmoid volvulus 
+    D. Small bowel obstruction 
+    E. Cecal volvulus
+    Correct Answer: B. Normal villi, abnormal brush border mucosal enzymes.
+    Explanation: Meconium ileus, commonly seen in infants with cystic fibrosis, may present with abnormal enzymes at the brush border of the intestinal mucosa.
+
+6. A 92-year-old woman presents to the emergency room with severe abdominal pain, distension, and a medical history that includes multiple episodes of constipation. A plain abdominal radiograph shows a large dilated loop of bowel, suggesting a certain type of volvulus. Which location of volvulus is most likely in this patient?
+    A. Adhesions 
+    B. Cecal volvulus 
+    C. Internal hemorrhoids 
+    D. Sigmoid volvulus 
+    E. Small bowel obstruction
+    Correct Answer: D. Sigmoid volvulus
+    Explanation: Sigmoid volvulus, which involves twisting of the sigmoid colon, is the most common type and usually occurs in elderly patients with chronic constipation.
+
+7. An 80-year-old man presents to the clinic complaining of recurrent, severe perirectal pain. He has a history of multiple perirectal abscesses. Which structure is the site of origin for these abscesses?
+    A. Adhesions 
+    B. Anal crypts 
+    C. Internal hemorrhoids 
+    D. Sigmoid colon 
+    E. Small bowel
+    Correct Answer: B. Anal crypts
+    Explanation: The anal crypts, which secrete anal glands, are the site of origin for perirectal abscesses. Obstruction of these glands can result in an abscess.","[80, 17, 71, 88, 67, 92, 41]"
+9,LCG,Unique,"1. A 48-hour-old male infant has not passed any stool since birth. The mother's pregnancy was uncomplicated and the delivery was normal. On abdominal examination, the baby shows signs of abdominal distension and is quite irritable. The rest of his physical examination is normal. Which of the following conditions is most likely seen in this scenario?
+A) Congenital duodenal atresia
+B) Hirschsprung's disease
+C) Hypothyroidism
+D) Meconium plug syndrome
+E) Meconium ileus
+Correct Answer: E) Meconium ileus. Explanation: Meconium ileus is frequently associated with cystic fibrosis and is characterized by the newborn's failure to pass the first stool.
+
+2. A 12-year-old boy presents with vague abdominal pain and bloody stools for the past 2 days. His past medical history is unremarkable. Physical examination reveals tenderness in the right lower quadrant. His laboratory tests show mild anemia. Which of the following diagnoses is consistent with these findings?
+A) Appendicitis
+B) Diverticulitis
+C) Gastric carcinoma
+D) Meckel's diverticulum with ectopic mucosa
+E) Morning sickness
+Correct Answer: D) Meckel's diverticulum with ectopic mucosa. Explanation: Meckel's diverticulum can contain ectopic gastric and pancreatic tissue. This can result in complications such as bleeding and intestinal obstruction.
+
+3. A 68-year-old woman presents with a history of recurring chest pain, easy bruising, and recurrent nosebleeds. She is pale and has several ecchymoses on her limbs, mucosal bleeding, and splinter hemorrhages under her fingernails. Her laboratory reports show prolonged PT and PTT. She denies taking any medication. Which of the possible conditions could explain her symptoms?
+A) Aplastic anemia
+B) Hemophilia
+C) Leukemia
+D) Thrombotic thrombocytopenic purpura
+E) Vitamin K deficiency
+Correct Answer: E) Vitamin K deficiency. Explanation: The symptoms of bruising, bleeding, and elevated PT & PTT are characteristic of vitamin K deficiency that interferes with the production of clotting factors.
+
+4. A neonate born with dysmorphic facial features is noted to have polydactyly, a single palmar crease, and a distended abdomen. Radiographic images reveal a double bubble sign, which indicates duodeno-biliary obstruction. Which of the following conditions is likely associated with the child's clinical presentation?
+A) Achondroplasia dwarfism
+B) Down syndrome
+C) Edward syndrome
+D) Patau syndrome
+E) Turner syndrome
+Correct Answer: B) Down syndrome. Explanation: Congenital duodenal atresia or stenosis, which can cause the double bubble sign, is associated with Down syndrome.
+
+5. A 45-year-old truck driver from a rural area presents to the clinic complaining of difficulty seeing at night. Examination reveals dry eyes, enlarged bumpy areas on his skin, and white patches on the conjunctiva of his eyes. Which of the following is the probable diagnosis?
+A) Diabetic retinopathy
+B) Glaucoma
+C) Macular degeneration
+D) Retinitis pigmentosa
+E) Vitamin A deficiency
+Correct Answer: E) Vitamin A deficiency. Explanation: The patient's symptoms including night blindness, dry eyes (xerophthalmia) and Bitot spots on the conjunctiva suggest a deficiency of vitamin A.
+
+6. A 60-year-old male consults a surgeon for recurring pain and swelling in the perianal region. Physical examination reveals a tender mass located below the levator ani muscle. What is the probable diagnosis?
+A) Infralevator abscess
+B) Ischiorectal abscess
+C) Postanal abscess
+D) Supralevator abscess
+E) Perianal abscess
+Correct Answer: A) Infralevator abscess. Explanation: The tenderness and location of the mass reveal it to be an infralevator abscess, which is commonly seen.
+
+7. A 50-year-old woman presents with tiredness and difficulty walking. She has a history of gastritis. She reports a change in her dietary habits, including the intake of fewer animal products. Her laboratory workup shows macrocytic anemia. Which of the following is likely at fault for her presentation?
+A) Cobalamin (Vitamin B12) malabsorption
+B) Folate deficiency
+C) Iron deficiency anemia
+D) Sickle cell disease
+E) Thalassemia
+Correct Answer: A) Cobalamin (Vitamin B12) malabsorption. Explanation: The patient's history, laboratory findings, and dietary changes suggest Pernicious anemia, which leads to cobalamin malabsorption.","[18, 12, 64, 2, 62, 96, 51]"
+10,LCG,Unique,"1. A 71-year-old male with a history of regular bowel regulation is brought to the emergency room experiencing intermittent abdominal pain, bloody diarrhea, and a fever. The patient is subject to a physical examination and a colonoscopy is performed. What does this sequence of treatment suggest the patient has?
+   A. Crohn's Disease
+   B. External Hemorrhoids
+   C. Hartmann's procedure
+   D. Irritable bowel syndrome (IBS-C)
+   E. Volvulus
+   Correct answer: E. Volvulus. The symptoms suggest a case of volvulus that leads to intestinal obstruction and thus requires a colonoscopy before possible surgical resection. 
+
+2. A 54-year-old female presents with painful lumps around the anus and occasional blood spotting on toilet paper. What does this indicate?
+   A. Colocolostomy
+   B. External Hemorrhoids
+   C. Right hemicolectomy
+   D. IBS-D
+   E. Thrombotic Microangiopathy
+   Correct answer: B. External Hemorrhoids. The given signs and symptoms correspond to external hemorrhoids, which are characterized by severe pain and potential thrombosis.
+
+3. The case of a 39-year-old man with symptoms such as fever, watery diarrhea, and abdominal pain is being studied. He has a history of consuming contaminated food. His lab results show signs of anemia and renal failure. What is most likely responsible for his condition?
+   A. Hartmann's procedure
+   B. Loop colostomy
+   C. Right hemicolectomy
+   D. Shiga Toxin & Mediated Thrombotic Microangiopathy
+   E. IBS-C
+   Correct answer: D. Shiga Toxin & Mediated Thrombotic Microangiopathy. The symptoms and lab results indicate infection with Shiga Toxin and Hemolytic Uremic Syndrome (HUS), a form of Thrombotic Microangiopathy caused by a Shiga toxin-producing bacteria.
+
+5. A 50-year-old woman visits the clinic complaining of constipation alternating with diarrhea. She also reports hard and lumpy stools over 25 percent of the time. What type of irritable bowel syndrome does she likely suffer from?
+   A. IBS-C
+   B. IBS-D
+   C. IBS-M
+   D. Shiga Toxin & Mediated Thrombotic Microangiopathy
+   E. Right hemicolectomy
+   Correct answer: C. IBS-M. The patient's symptoms outline mixed bowel habits, indicative of mixed IBS (IBS-M). 
+
+6. A 47-year-old man with a history of bowel disorders is complaining about painful bowel movements and weight loss. A physical examination reveals patches of inflamed, ulcerated intestinal mucosa. Which specific tests would most likely confirm the presence of the disease?
+   A. Colonoscopy
+   B. MRI
+   C. Both A and B
+   D. Small bowel series
+   E. Barium enemas
+   Correct answer: C. Both A and B. Colonoscopy and MRI are two tests that can help provide a comprehensive evaluation and diagnosis for Crohn's Disease, which is what the patient may be experiencing.
+
+7. A 62-year-old man presents with a history of progressive constipation. He underwent a surgical procedure to create an opening in the colon through the anterior abdominal wall. What procedure was this most likely?
+   A. Hartmann's procedure
+   B. Loop colostomy
+   C. Right hemicolectomy
+   D. Colocolostomy
+   E. Volvulus treatment  
+   Correct answer: B. Loop colostomy. The symptoms and reported procedure suggest that the patient most likely underwent a loop colostomy to rectify the severe constipation.","[78, 44, 82, 89, 19, 38, 95]"
+11,LCG,Unique,"1. A 40-year-old woman with long-term abdominal pain and intermittent episodes of diarrhea and constipation seeks medical advice. The practitioner identified iron deficiency anemia and increased ESR and CRP levels through laboratory tests. What could be the most probable diagnosis for this patient?
+   A. Celiac disease
+   B. Chronic pancreatitis
+   C. Crohn's disease
+   D. Peptic ulcer
+   E. Ulcerative colitis
+   Correct answer: C. Crohn's disease
+   Explanation: Crohn's disease often presents with iron deficiency anemia, elevated ESR, and CRP. These findings match the patient's presentation.
+
+2. A 70-year-old man presents to the clinic complaining of continuous anal pain while passing stool. Upon examination, a stage 3 prolapsing hemorrhoid is diagnosed. What would the preferred treatment option be for this patient?
+   A. High fiber diet
+   B. Topical creams
+   C. Rubber band ligation
+   D. Closed hemorrhoidectomy
+   E. Sclerotherapy
+   Correct answer: D. Closed hemorrhoidectomy
+   Explanation: The preferred treatment for a stage 3 prolapsing hemorrhoid is a closed hemorrhoidectomy.
+
+3. An 18-year-old woman seeks assistance for blood mixed with mucus in her stools and abdominal pain. She also reports a repeated pattern of elevated fever. A colonoscopy reveals the presence of crypt abscesses and superficial ulcerations. What is the most likely diagnosis for the patient based on her clinical history and findings? 
+   A. Acute appendicitis
+   B. Crohn's disease
+   C. Gastroenteritis
+   D. Ulcerative colitis
+   E. Diverticulitis
+   Correct answer: D. Ulcerative colitis
+   Explanation: The classic histological finding in ulcerative colitis includes crypt abscesses with neutrophils and superficial ulcerations, which aligns with this patient's colonoscopy results.
+
+4. A 25-year-old male presents with unexplained weight loss, diarrhea, and flatulence. He reports having difficulty digesting and tolerating certain kinds of foods, especially those with gluten. Which disorder might be implicated?
+   A. Inflammatory bowel disease
+   B. Celiac disease
+   C. Lactose intolerance
+   D. Peptic ulcer disease
+   E. Crohn's disease
+   Correct answer: B. Celiac disease
+   Explanation: The symptoms suggest a malabsorption syndrome and the gluten intolerance suggests global malabsorption characteristic of celiac disease.
+
+5. A 45-year-old man presents to the clinic with abdominal cramps and recurrent bowel obstruction. Upon further investigation, lesions were discovered primarily in the terminal ileum and right colon. What condition could be associated with this presentation?
+   A. Appendicitis
+   B. Diverticulosis
+   C. Crohn's disease
+   D. Colon cancer
+   E. Intestinal tuberculosis
+   Correct answer: C. Crohn's disease
+   Explanation: This distribution of lesions is common in Crohn's disease.
+
+6. A 2-year-old boy develops bloody diarrhea, vomiting, and sudden-onset kidney failure after consuming contaminated food. What might be responsible for the endothelial damage in his condition?
+   A. Bacterial endotoxin
+   B. Entamoeba histolytica
+   C. Hepatitis A virus
+   D. Shiga toxin
+   E. Rotavirus
+   Correct answer: D. Shiga toxin
+   Explanation: Shiga toxin produced by some E. coli strains activates the endothelium leading to HUS, matching the child's symptoms.
+
+7. A 30-year-old woman is having frequent episodes of watery diarrhea and flatulence. Lab tests show acidic stool pH and, upon consultation, she admits to having intolerance to milk. What does this suggest?
+   A. Fat malabsorption
+   B. Carb malabsorption
+   C. Zollinger-Ellison syndrome
+   D. Gastric ulcer
+   E. Lactose intolerance
+   Correct answer: B. Carb malabsorption
+   Explanation: Watery diarrhea, flatulence, acidic stool pH, and milk intolerance are all symptoms of carbohydrate malabsorption. Lactose intolerance is a form of carbohydrate malabsorption.","[36, 100, 27, 50, 32, 21, 56]"
+12,LCG,Unique,"1. A 55-year-old man with a history of Hodgkin lymphoma comes to the clinic with complaints of intermittent abdominal pain, diarrhea, and, loose stools for the last two weeks. During the physical examination he is noted to have flushing and bronchospasm. Which of the following would be most likely found upon further investigation?
+A. Adenocarcinoma
+B. Carcinoid 
+C. Leiomyosarcoma
+D. Lymphoma
+E. Meconium Ileus
+Correct answer: B. Carcinoid 
+Explanation: Given the patient's symptoms and history of cancer, a carcinoid tumor in the small intestine is likely. Carcinoid tumors are the most common malignant tumors of the small intestine. 
+
+2. A newborn baby with a history of polyhydramnios has difficulty feeding, vomits a greenish substance, and appears lethargic. Which condition is most likely indicated by these symptoms?
+A. Carcinoid 
+B. Congenital duodenal atresia 
+C. Cystic fibrosis
+D. Leiomyosarcoma
+E. Small bowel obstruction
+Correct answer: B. Congenital duodenal atresia 
+Explanation: Difficulty swallowing and absorption of amniotic fluid could suggest congenital duodenal atresia or stenosis, supported by prenatal findings of polyhydramnios.
+
+3. A 65-year-old male with a history of diverticulitis presents with obstipation, abdominal distention, and vomiting. A colonic obstruction is suspected. Which of the following would be the most common cause?
+A. Adenocarcinoma 
+B. Carcinoid
+C. Cystic fibrosis
+D. Leiomyosarcoma
+E. Lymphoma
+Correct answer: A. Adenocarcinoma
+Explanation: Adenocarcinoma is the most common cause of colonic obstruction, particularly in an older adult with a history of diverticular disease.
+
+4. A middle-aged woman presents to the clinic with recurrent periods of abdominal pain, diarrhea, and weight loss. She has a family history of inflammatory bowel disease. Which of the following could be used in the management of her condition?
+A. Aminosalicylates 
+B. Antifungals
+C. Antivirals
+D. Corticosteroids
+E. Proton pump inhibitors
+Correct answer: A. Aminosalicylates
+Explanation: In inflammatory bowel disease, aminosalicylates, corticosteroids, and immunomodulators can be used for treatment.
+
+5. A 2-day old newborn has not passed meconium, has a distended abdomen and vomits greenish fluid. The mother had a healthy pregnancy with good prenatal care. What condition could be associated with these symptoms?
+A. Carcinoid
+B. Cystic fibrosis 
+C. Leiomyosarcoma
+D. Lymphoma
+E. Small bowel obstruction
+Correct answer: B. Cystic fibrosis
+Explanation: The symptoms seems to suggest meconium ileus, which is often associated with neonates having cystic fibrosis.
+
+6. A 60-year-old patient with a history of chronic pancreatitis and a good appetite complains of weight loss, steatorrhea and bloating. He admits to a history of alcohol overuse. What could be causing his symptoms? 
+A. Adenocarcinoma
+B. Carcinoid
+C. Exocrine pancreatic insufficiency
+D. Lymphoma
+E. Lactose intolerance
+Correct answer: C. Exocrine pancreatic insufficiency
+Explanation: This is commonly seen in cases of maldigestion. Pancreatic exocrine insufficiency occurs most commonly in patients with chronic pancreatitis.
+
+7. A 72-year-old man with a history of colorectal cancer treated with chemotherapy and radiation presents with abdominal distention, persistent nausea, vomiting, and inability to pass gas or stool. Laboratory results indicate electrolyte imbalances together with dehydration. What complication does this patient likely suffer from? 
+A. Congenital duodenal atresia
+B. Meconium Ileus
+C. Adenocarcinoma
+D. Small Bowel Obstruction
+E. Lymphoma
+Correct answer: D. Small Bowel Obstruction
+Explanation: Electrolyte imbalances, dehydration, and bowel wall edema suggests the presence of complications related to a small bowel obstruction (SBO). This is common in patients with a history of abdominal cancer or surgeries.","[66, 4, 40, 75, 14, 48, 69]"
+13,LCG,Unique,"1. A 45-year-old woman with a history of intermittent abdominal pain, malnutrition, and weight loss has recently developed oral ulcers and a swollen, red tongue. Laboratory studies indicate macrocytic anemia. Which of the following is the most likely diagnosis?
+
+a) Benign tumor of the small intestine
+b) Crohn's disease
+c) Folic Acid Deficiency
+d) Pernicious Anemia
+e) Stomach Ulcer
+
+Correct Answer: c) Folic Acid Deficiency
+Explanation: This patient's macrocytic anemia, glossitis (swollen, red tongue), oral ulcers, and risk factors of malnutrition and poor dietary absorption suggest a deficiency of folic acid.
+
+------
+
+2. A 28-year-old man presents with severe abdominal pain and distension. Upon further investigation, a CT scan showcases abnormalities in the structure of the small bowel. The diagnosis is small bowel obstruction (SBO). What is the most common cause of such disorder?
+
+a) Adhesions from previous surgery
+b) Benign tumors of the small intestine
+c) Crohn's disease
+d) Hernia
+e) Volvulus
+
+Correct Answer: a) Adhesions from previous surgery
+Explanation: Adhesions from previous surgeries are the most common cause of small bowel obstruction.
+
+------
+
+3. A 52-year-old woman complains of chronic diarrhea and weight loss. An endoscopy reveals non-caseating granulomas. What is the most likely diagnosis?
+
+a) Celiac Disease
+b) Crohn's Disease
+c) Folic Acid Deficiency
+d) Small Bowel Obstruction
+e) Tuberculosis
+
+Correct Answer: b) Crohn's Disease
+Explanation: Non-caseating granulomas on endoscopy are a common finding in Crohn's Disease.
+
+------
+
+4. A 36-year-old woman presents with intermittent bouts of bloody stools. Following examination, a doctor recommends sclerotherapy. What is the most likely diagnosis?
+
+a) Anal fissure
+b) Colon Cancer
+c) Crohn's disease
+d) Hemorrhoids
+e) Ulcerative colitis
+
+Correct Answer: d) Hemorrhoids
+Explanation: Sclerotherapy is a common treatment for hemorrhoids, especially when presenting with bleeding. 
+
+------
+
+5. A 34-year-old man with a long history of abdominal discomfort and gas is diagnosed with malabsorption syndrome due to chronic inflammation in the intestines. Which of the following diseases likely describes his condition?
+
+a) Crohn's disease
+b) Diverticulitis
+c) Irritable bowel syndrome
+d) Peptic ulcer disease
+e) Small intestinal bacterial overgrowth
+
+Correct Answer: a) Crohn's disease
+Explanation: Among the given options, Crohn's disease is associated with chronic inflammation in the intestines and can lead to malabsorption syndrome.
+
+------
+
+6. A 57-year-old man with a history of abdominal pain and anemia is noted to have an ileal mass on CT scan. Biopsy reveals a benign tumor. What type of benign tumor is most likely?
+
+a) Adenoma
+b) Fibroma
+c) Leiomyoma
+d) Lipoma
+e) Polyp
+
+Correct Answer: d) Lipoma
+Explanation: Lipoma is the most common benign tumor of the ileum.
+
+------
+
+7. A 64-year-old woman is suffering from chronic constipation, blood in the stool, and abdominal pain. On examination, hard, painful lumps are found in the anal region. What is the most appropriate initial treatment for her condition?
+
+a) Cryotherapy
+b) Dietary manipulation
+c) Rubber band ligation
+d) Sclerotherapy
+e) Surgical hemorrhoidectomy
+
+Correct Answer: b) Dietary manipulation
+Explanation: For hemorrhoids, initial treatment typically involves dietary manipulation, including increased fiber and fluid intake.","[49, 70, 65, 53, 59, 34, 97]"
+14,LCG,Unique,"1. A 30-year-old male presents to his primary care physician with a complaint of recurrent abdominal pain, occurring more than once per week for the past 4 months. The patient also reports a change in his stool consistency and frequency. Based on the Rome IV Diagnostic Criteria, which condition is the patient most likely suffering from?
+    a. Inflammatory bowel disease
+    b. Gastroenteritis
+    c. Gastric ulcers
+    d. Irritable bowel syndrome
+    e. Pancreatic cancer
+Correct answer: d. Irritable bowel syndrome
+Explanation: The Rome IV Diagnostic Criteria states that if a patient has recurrent abdominal pain (at least 1 day/week for 3 months), which is associated with defecation or a change in stool frequency or form, it is indicative of Irritable Bowel Syndrome (IBS).
+
+2. A 55-year-old patient presents with a history of diarrhea, fatigue, and tingling in his extremities. Lab tests show increased levels of both methylmalonic acid (MMA) and homocysteine. Which nutritional deficiency might the patient have?
+    a. Vitamin B6 deficiency
+    b. Vitamin C deficiency
+    c. Vitamin B12 deficiency
+    d. Thiamine deficiency
+    e. Niacin deficiency
+Correct answer: c. Vitamin B12 deficiency
+Explanation: Elevated MMA and homocysteine are indicative of a vitamin B12 deficiency.
+
+3. A 59-year-old woman who has a history of bloody diarrhea presents to the hospital. A sigmoidoscopy shows granularity, spontaneous hemorrhage, and ulcerations. What is the most likely diagnosis?
+    a. Crohn's disease
+    b. Diverticulitis 
+    c. Ulcerative colitis
+    d. Colorectal cancer
+    e. Anal fissures
+Correction answer: c. Ulcerative colitis
+Explanation: The gross appearance of the intestine described is characteristic of ulcerative colitis.
+
+4. A 24-year-old female comes to the emergency department reporting severe lower abdominal pain. The pain gets worse upon defecation. The physical examination shows a swollen, tender area near the anus. What structure is the source of her pain?
+    a. Ileum
+    b. Sigmoid colon
+    c. Rectum
+    d. Anal canal
+    e. Appendix
+Correct answer: d. Anal canal
+Explanation: Pain in the region of the anus is often due to a problem with the anal canal, which contains somatic sensory nerves that respond to pain.
+
+5. A disease outbreak leads to numerous cases of bloody diarrhea and hemolytic uremic syndrome. Upon investigation, it's found that the causative agent produces the Shiga toxin. What effects can this toxin have at the glomerular level? 
+    a. Collagen deposition 
+    b. Glomerulosclerosis 
+    c. Capillary thromboses
+    d. Mesangial expansion  
+    e. Basement membrane thickening
+Correct answer: c. Capillary thromboses
+Explanation: Shiga toxin can cause capillary thromboses, necrosis of the capillary walls, and other harmful effects at the glomerular level.
+
+6. A 35-year-old woman presents with a 6-month history of chronic abdominal pain and altered bowel habits. After a careful review of her clinical picture, tests, and elimination of other conditions, her physician determines her to be suffering from inflammatory bowel disease (IBD). What is the primary treatment goal for her condition?
+    a. Symptom relapse prevention
+    b. Steroid withdrawal
+    c. Therapy escalation
+    d. Surgery preparation 
+    e. Hospital admission prevention
+Correct Answer: a. Symptom relapse prevention
+Explanation: The main goals in treating IBD include confirming accurate diagnosis, inducing & maintaining remission, enhancing the quality of life, and avoiding adverse effects.
+
+7. A patient presents to the clinic complaining of severe, sharp pain in her lower abdomen that lasts only a few seconds at a time. The doctor's physical examination reveals a small tear in the epithelium revealing bright red blood. Where has this tear most likely occurred? 
+    a. Duodenum
+    b. Jejunum
+    c. Anal canal
+    d. Descending Colon
+    e. Appendix
+Correct answer: c. Anal canal
+Explanation: Tears, or fissures, in the lining of the anal canal cause severe, abrupt pain that usually occurs with defecation and can cause bright red bleeding.","[37, 85, 26, 43, 61, 39, 22]"
